@@ -47,9 +47,9 @@ toml = { workspace = true, features = ["preserve_order"] }
 tracing.workspace = true
 k256.workspace = true
 walkdir.workspace = true
-p256 = "0.13.2"
+p256 = "0.13"
 thiserror.workspace = true
 semver.workspace = true
 rustc-hash.workspace = true
-dialoguer = "0.11.0"
+dialoguer = "0.11"
 rand = "0.8"

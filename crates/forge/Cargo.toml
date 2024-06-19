@@ -92,8 +92,8 @@ strum = { workspace = true, features = ["derive"] }
 thiserror.workspace = true
 tokio = { workspace = true, features = ["time"] }
 toml = { version = "0.8", features = ["preserve_order"] }
-toml_edit = "0.22.4"
-watchexec = "2.3.2"
+toml_edit = "0.22"
+watchexec = "2.3"
 evm-disassembler.workspace = true
 rustc-hash.workspace = true
 

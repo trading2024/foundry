@@ -23,7 +23,7 @@ alloy-primitives.workspace = true
 alloy-provider.workspace = true
 
 eyre.workspace = true
-fd-lock = "4.0.0"
+fd-lock = "4"
 once_cell.workspace = true
 parking_lot.workspace = true
 similar-asserts.workspace = true

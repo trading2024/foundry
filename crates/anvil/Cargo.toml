@@ -36,7 +36,7 @@ foundry-config.workspace = true
 foundry-evm.workspace = true
 
 # evm support
-bytes = "1.4.0"
+bytes = "1.6"
 k256.workspace = true
 revm = { workspace = true, features = [
     "std",
@@ -89,7 +89,7 @@ flate2 = "1.0"
 serde_repr = "0.1"
 serde_json.workspace = true
 serde.workspace = true
-thiserror .workspace = true
+thiserror.workspace = true
 yansi.workspace = true
 tempfile.workspace = true
 itertools.workspace = true
